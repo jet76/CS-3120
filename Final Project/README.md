@@ -19,7 +19,7 @@ The project should NOT be evaluated by the performance (low or high accuracy) of
 
 3. **Presentation Evaluation (Peer review) 10pts:**
 Each student needs to record a 4-minutes (or less) long presentation video, upload the video, watch and evaluate all the students’ presentations.
-The average score will be used as the final presentation grade. Students who did not submit the video presentation to this link before deadline are considered as giving up this 10pts for presentation. 
+The average score will be used as the final presentation grade. Students who did not submit the video presentation to this link before deadline are considered as giving up this 10pts for presentation.  
 *Format: Lastname_Firstname.mp4  
 About the content of your video: You can record your face or your screen or both. Make sure clearly explain what you did (the topic), what model you used, performance of your model and which part is your own work.*  
 **Link to upload your presentation video.  
