@@ -5,6 +5,6 @@ Description: Machine learning is the ability of computers to learn without expli
 - [Homework 1](HW1) - Build a Linear Regression Model for a given dataset using Gradient Descent
 - [Homework 2](HW2) - Logistic Regression for binary classification
 - [Homweork 3](HW3) - Class Animals classification using K-Nearest Neighbor classifier
-- [Midterm Homework](Midtern HW) - Classification using different classification tools
+- [Midterm Homework](Midtern%20HW) - Classification using different classification tools
 - [Homework 5](HW5) - Neural Network
-- [Fianl Project](Final Project) - Self-determined Topic: Cat Breed Neural Network
+- [Fianl Project](Final%20Project) - Self-determined Topic: Cat Breed Neural Network
