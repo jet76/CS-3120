@@ -2,14 +2,14 @@
 30 points  
 10 pts from report + 10 pts from code + 10 pts from video presentation  
 
-1. **Report Requirement (answer the following questions) 10pts:**
-  a.	What is the project about? Or what problems you are going to solve?
-  b.	Which part is your own work/idea, which part is an implementation of other people’s idea, which part is using some existing code/examples?  List and cite all the reference resources (including books, papers, articles, webpages, codes and examples) at the end of your report. Using existing code or work without citation/statement will be considered as plagiarism and end up with a zero score.
-  c.	List all the libraries/packages that you used.
-  d.	Describe the machine learning algorithms or deep learning algorithms that are used in your project and the reason of selecting such models.
-  e.	Provide necessary discussion or analysis of performance change using different hyperparameters (if there was any).
-  f.	Anything that you think is helpful for grading.
-The project should NOT be evaluated by the performance (low or high accuracy) of the model. The credits are given based on how well your idea is developed or implemented, how much work is shown to be your own effort and how meaningful your work is. 
+1. **Report Requirement (answer the following questions) 10pts:**  
+  a.	What is the project about? Or what problems you are going to solve?  
+  b.	Which part is your own work/idea, which part is an implementation of other people’s idea, which part is using some existing code/examples?  List and cite all the reference resources (including books, papers, articles, webpages, codes and examples) at the end of your report. Using existing code or work without citation/statement will be considered as plagiarism and end up with a zero score.  
+  c.	List all the libraries/packages that you used.  
+  d.	Describe the machine learning algorithms or deep learning algorithms that are used in your project and the reason of selecting such models.  
+  e.	Provide necessary discussion or analysis of performance change using different hyperparameters (if there was any).  
+  f.	Anything that you think is helpful for grading.  
+The project should NOT be evaluated by the performance (low or high accuracy) of the model. The credits are given based on how well your idea is developed or implemented, how much work is shown to be your own effort and how meaningful your work is.   
 
 2. **Code Requirement and Evaluation 10pts:**
 Failure of running or downloading the code will result in a zero score for code evaluation. Code included in the submission should be “ready” to run, with proper relative path and necessary input files submitted or linked (Github links to your input datasets are acceptable when your dataset is huge.). 
