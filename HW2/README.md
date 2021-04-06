@@ -15,7 +15,7 @@ col_names = ['pregnant', 'glucose', 'bp', 'skin', 'insulin', 'bmi', 'pedigree', 
 pima = pd.read_csv("pima-indians-diabetes-database.csv", header=None, names=col_names)
 ```
 
-3.	**Select 5 (if not possible then select 4) features from the chosen dataset.**  (1pt) 
+3.	**Select 5 (if not possible then select 4) features from the chosen dataset.**  (1pt)  
 **List all features you selected in your report.**
 For example, the following code will select two features 
 ```
