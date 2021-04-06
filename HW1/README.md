@@ -1,6 +1,4 @@
-# Homework 1
-
-Build a Linear Regression Model for a given dataset using Gradient Descent  
+# Homework 1 - Build a Linear Regression Model for a given dataset using Gradient Descent  
 (NumPy and data visualization packages are allowed.)  
 (Existing Linear Regression Model from any library/package is NOT allowed!)
 
