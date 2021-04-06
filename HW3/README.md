@@ -1,6 +1,7 @@
 # Assignment 3 - Class Animals classification using K-Nearest Neighbor classifier   
 (NumPy and data visualization packages are allowed.)  
 (SKLearn models are allowed.)  
+
 **Given:  
 K = [3, 5, 7]  
 Distance metrics: L1 and L2  
