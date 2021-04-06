@@ -41,7 +41,7 @@ for i in range(len(bb)):
         Z[j][i] = Z[j][i]/len(x_data)
 ```        
 
-4.	Build a linear regression model that minimizing the loss for the given dataset using “gradient descent” algorithm introduced in lecture2.     (4pts)
+4.	Build a linear regression model that minimizing the loss for the given dataset using “gradient descent” algorithm introduced in lecture2.     (4pts)  
 w<sub>j</sub>:=w<sub>j</sub>-α∙dL/dw  
 Randomly pick some weights to start the “gradient descent” process. 
 e.g.
