@@ -7,7 +7,7 @@ Datasets:  iris.csv or MNIST.csv from blackboard
 Requirement:   
 Select a public dataset with multiple classes. Use at least three different classifiers to classify them. Compare and discuss the classification performance of different models that you selected. Discuss what could affect the performance for different classifiers (e.g. values of hyperparameters that you used) and how they affect the performance.  
 
-1.	**Select a dataset**: select one from iris.csv or MNSt.csv or
+1.	**Select a dataset**: select one from [iris.csv](iris.csv) or MNSt.csv or
          any public dataset (include your csv file in your submission if you use another dataset) 
 
 2.	**Split the dataset:** 
@@ -37,4 +37,3 @@ model3  DecisionTreeClassifier()
 You could try different sizes of the training/testing data, different hyperparameters’ values, Or even different datasets using different classifiers.
 
 9.	**Bonus up to 5 pts.** (Anything that was not listed above.)
-10.	
