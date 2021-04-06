@@ -1,11 +1,12 @@
-Assignment 3 - Class Animals classification using K-Nearest Neighbor classifier   
+#Assignment 3 - Class Animals classification using K-Nearest Neighbor classifier   
 (NumPy and data visualization packages are allowed.)  
 (SKLearn models are allowed.)  
-Reference: Slide6 in blackboard  
+**
 Given:  
 K = [3, 5, 7]  
 Distance metrics: L1 and L2  
 Dataset: animals.zip
+**
 
 1.	**Gather the Dataset:** The Animals datasets consists of 3,000 images with 1,000 images per dog, cat, and panda class, respectively. Each image is represented in the RGB color space. You will preprocess each image by resizing it to 32x32 pixels. Taking into account the three RGB channels, the resized image dimensions imply that each image in the dataset is represented by 32x32x3 = 3,072 integers. (2pts code)
 
