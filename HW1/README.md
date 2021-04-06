@@ -42,13 +42,14 @@ for i in range(len(bb)):
 ```        
 
 4.	Build a linear regression model that minimizing the loss for the given dataset using “gradient descent” algorithm introduced in lecture2.     (4pts)
+w<sub>j</sub>:=w<sub>j</sub>-α∙dL/dw  
 Randomly pick some weights to start the “gradient descent” process. 
 e.g.
 ```
 b = 0 # initial b
 w = 0 # initial w
 ```
-**Explain how your gradient descent process was terminated (e.g. by testing convergence or finishing certain number of iterations) and explain all threshold values you used in your report.    (1pt)**
+**Explain how your gradient descent process was terminated (e.g. by testing convergence or finishing certain number of iterations) and explain all threshold values you used in your report.**    (1pt)
  
 5.	Test different values of the learning rate “lr” and different number of iterations/convergence threshold values. 
 **Explain how these values affect your program in your report.  (1pts)**
@@ -74,10 +75,9 @@ plt.plot(b_history, w_history, 'o-', ms=3, lw=1.5,color='black')
 
 Example track change figure:
 
-INSERT IMAGE HERE
- 
+![](Picture1.tiff) 
 
-7.	**Bonus* (up to 2pts)
+7.	**Bonus** (up to 2pts)
 **Compare the prediction result using your model with the given target values (Y values)
 Or 
 Any other type of model performance testing.**
