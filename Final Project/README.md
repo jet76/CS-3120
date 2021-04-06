@@ -1,5 +1,7 @@
 # Final Project: Self-determined Topic
+
 >For this project I created a neural network to identify the breed of a cat. The .csv data file used was too large to upload to GitHub, and only select images from the dataset were used due to inconsistent quantity and numerous erroneously labeled images. The dataset can be found [here](https://www.kaggle.com/ma7555/cat-breeds-dataset#cats.csv).
+
 30 points  
 10 pts from report + 10 pts from code + 10 pts from video presentation  
 
