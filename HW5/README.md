@@ -2,9 +2,9 @@
 (Only NumPy and data visualization packages are allowed.) 
 
 1. Read through Slide11 and 12, watch video lectures of neural networks.
-2. Run the code “8_NN_2layer.py” (blackboard) 
+2. Run the code “[8_NN_2layer.py](8_NN_2layer.py)” (blackboard) 
 3. Trains the NN more than 1,000 times and observe the change of the loss value.
-4. Implement a **“3-6-2” network** (using code 8_NN_2layer.py) to fit the following data:  
+4. Implement a **“3-6-2” network** (using code [8_NN_2layer.py](8_NN_2layer.py)) to fit the following data:  
 ```
 X=np.array(([0,0,1],[0,1,1],[1,0,1],[1,1,1]), dtype=float)
 y=np.array(([0,1],[1,0],[1,0],[0,1]), dtype=float)
