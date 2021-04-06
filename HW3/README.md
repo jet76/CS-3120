@@ -1,4 +1,4 @@
-#Assignment 3 - Class Animals classification using K-Nearest Neighbor classifier   
+# Assignment 3 - Class Animals classification using K-Nearest Neighbor classifier   
 (NumPy and data visualization packages are allowed.)  
 (SKLearn models are allowed.)  
 **
