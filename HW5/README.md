@@ -1,4 +1,4 @@
-# Homework 5
+# Homework 5 - Neural Network
 (Only NumPy and data visualization packages are allowed.) 
 
 1. Read through Slide11 and 12, watch video lectures of neural networks.
