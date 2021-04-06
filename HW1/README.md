@@ -74,7 +74,7 @@ plt.plot(b_history, w_history, 'o-', ms=3, lw=1.5,color='black')
 ```
 
 Example track change figure:
-![Track Change Figure](Picture1.tif) 
+![TrackChangeFigure](Picture1.tif) 
 
 7.	**Bonus** (up to 2pts)
 **Compare the prediction result using your model with the given target values (Y values)
